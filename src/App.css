@@ -2,6 +2,10 @@
   margin: 0 10px;
 }
 
+a[href="https://appbase.io/"] img{
+  display: none;
+}
+
 .sub-container {
   display: -ms-flexbox;
   display: flex;

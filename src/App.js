@@ -115,10 +115,10 @@ class App extends Component {
                   sortOptions: "sort-options",
                   resultStats: "result-stats",
                   resultsInfo: "result-list-info",
-                  poweredBy: "powered-by"
+                  // poweredBy: "powered-by"
                 }}
                 onData={function(res) {
-                  // console.log('res', res)
+                  console.log('res', res)
                   return {
                     description: 
                     (
