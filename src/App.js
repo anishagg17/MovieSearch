@@ -7,7 +7,7 @@ import {
 import Navbar from "./Components/Navbar.js";
 import Leftbar from "./Components/Leftbar.js";
 import "./App.css";
-require("dotenv").config();
+// require("dotenv").config();
 
 class App extends Component {
   constructor(props) {
